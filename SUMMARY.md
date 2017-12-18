@@ -2,8 +2,8 @@
 
 * [Introducción](README.md)
 
-____
-### 1. Preparados
+## 1. Preparados
+
 * [M1 Preparados...](index0.md)
 * [Pensamiento computacional](pensamiento_computacional.md)
 * [¿Qué es mBot?](qu_es_mbot.md)
@@ -17,22 +17,24 @@ ____
 * [Dependiendo del ordenador-Conexií³n](dependiendo_del_ordenadorconexin.md)
 * [Resetear mBot](resetear_mbot.md)
 * [A jugaaarrr ...](a_jugaaarrr_.md)
-____
-### 2. Listos
+
+## 2. Listos
+
 * [M2 Listos...](index1.md)
 * [Modulos electrí³nicos](modulos_electrnicos.md)
-    * [Botí³n](botn.md)
-    * [LED RGB](led_rgb.md)
-    * [Buzzer](buzzer.md)
-    * [Sensor IR](sensor_ir.md)
-    * [Sensor Luz](sensor_luz.md)
-    * [Sensor Luz II](sensor_luz_ii.md)
+  * [Botí³n](botn.md)
+  * [LED RGB](led_rgb.md)
+  * [Buzzer](buzzer.md)
+  * [Sensor IR](sensor_ir.md)
+  * [Sensor Luz](sensor_luz.md)
+  * [Sensor Luz II](sensor_luz_ii.md)
 * [Componentes exteriores](componentes_exteriores1.md)
-    * [Sensor de lí­nea](sensor_de_lnea.md)
-    * [Sensor distancia](sensor_distancia.md)
-    * [Matriz Led](matriz_led.md)
-____
-### 3. Ya!!!
+  * [Sensor de lí­nea](sensor_de_lnea.md)
+  * [Sensor distancia](sensor_distancia.md)
+  * [Matriz Led](matriz_led.md)
+
+## 3. Ya!!!
+
 * [M3 Ya!!!](index2.md)
 * [Evitar obstí¡culos](evitar_obstculos.md)
 * [Upload to Arduino](upload_to_arduino.md)
@@ -42,3 +44,5 @@ ____
 * [Quiero saber mí¡s](quiero_saber_ms.md)
 * [Twitter](twitter.md)
 * [Deja las cosas como estaban](deja_las_cosas_como_estaban.md)
+* [Creditos](creditos.md)
+
