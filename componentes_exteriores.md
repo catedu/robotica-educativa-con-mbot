@@ -12,5 +12,9 @@ Componentes exteriores importantes a la hora de programar y que trataremos en es
 - [Sensor de distancia por ultrasonidos](http://www.makeblock.es/productos/modulo_ulstrasonidos_v2/) para utilizarlo por ejemplo como evita-obstáculos. EN ESTE CURSO LO CONSIDERAREMOS CONECTADO EN EL** PUERTO 3.**
 - [Matriz de leds 8x16 ](http://www.makeblock.es/productos/mbot_matriz_leds/)para expresar símbolos y caracteres. Este componente no está en el [kit standard mBot](http://www.makeblock.es/productos/robot_educativo_mbot_2.4g/), pero sí en el[ que presta CATEDU](http://www.catedu.es/webcatedu/index.php/destacados/149-robotica). EN ESTE CURSO LO CONSIDERAREMOS CONECTADO EN EL** PUERTO 1.**
 
-![](img/EL_LIGHT_makeblock_EL_LIGHT.jpg)
-![](mbot_display_matrix.jpg)
+![](img/EL_LIGHT_makeblock_EL_LIGHT.jpg) ![](img/EL_USONIC_makeblock_EL_USONIC.jpg)
+
+![](img/mbot_display_matrix.jpg)
+
+Fuente de las imágenes: http://makeblock.es/
+

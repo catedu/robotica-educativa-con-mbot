@@ -24,5 +24,6 @@ Resetar mBot, significa dejarlo como estaba de fábrica es decir :
 ![](img/conectarUSB.png)
 ![](img/conectar2.png)
 ![](img/conectar4.png)
+
 Fuente de las imágenes: Captura de pantalla de mBlock. Las fotos: El autor.
 

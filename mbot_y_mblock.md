@@ -33,6 +33,7 @@ Se actualiza muy a menudo, mejorando cada vez más sus prestaciones, lo que impl
 El programa es muy sencillo si estás acostumbrado al SCRATCH :
 
 ![](img/mblock.gif)
+
 **Fuente: [http://makeblock.es/](Fuente:%20http://makeblock.es/)**
 
 ### Qué curioso

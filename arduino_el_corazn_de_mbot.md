@@ -4,11 +4,13 @@
 El kit es fácil de montar ([instrucciones](https://www.dropbox.com/s/kwfo7pjdjoyo2x3/mBot%20instruction.pdf?dl=1)), pero si nos fijamos el corazon es la placa de Arduino:
 
 ![](img/mbot-assemble-process.gif)
+
 **Fuente: [http://makeblock.es/](fuente:%20http://makeblock.es/)**
 
 Nos tenemos que fijar en estos componentes de la placa:
 
 ![](img/arduino-open-source.jpg)
+
 **Fuente: [http://makeblock.es/](fuente:%20http://makeblock.es/)**
 
 - Los R25 donde montaremos los diferentes componentes externos, tienen colores para indicar qué componentes son compatibles.
@@ -26,5 +28,6 @@ Nos tenemos que fijar en estos componentes de la placa:
 La ventaja de esta placa es que permite conectar **directamente** los motores y diferentes componentes exteriores sin necesidad de placas controladoras intermedias y con la conexión rápida RJ25, sin necesidad de placas Protoboard, mirar la diferencia entre trabajar con una placa Arduino convencional y esta:
 
 ![](img/placa2.jpg)
+
 **Fuente: [http://makeblock.es/](fuente:%20http://makeblock.es/)**
 
