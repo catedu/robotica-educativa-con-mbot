@@ -22,7 +22,7 @@
 
 * [M2 Listos...](index1.md)
 * [Módulos electrónicos](modulos_electrnicos.md)
-  * [Botí³n](botn.md)
+  * [Botón](botn.md)
   * [LED RGB](led_rgb.md)
   * [Buzzer](buzzer.md)
   * [Sensor IR](sensor_ir.md)
