@@ -36,7 +36,7 @@
 ## 3. Ya!!!
 
 * [M3 Ya!!!](index2.md)
-* [Evitar obstí¡culos](evitar_obstculos.md)
+* [Evitar obstáculos](evitar_obstculos.md)
 * [Upload to Arduino](upload_to_arduino.md)
 * [Seguir un circuito](seguir_un_circuito.md)
 * [Publica tus construcciones](publica_tus_construcciones.md)

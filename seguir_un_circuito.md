@@ -13,15 +13,15 @@ NO SE PUEDE UTILIZAR EL MBOT EN ESTE PROGRAMA DEPENDIENDO DEL ORDENADOR, hay que
 
 Ten en cuenta que el sigue lineas, si devuelve 3 es que va por buen camino, si devuelve 1 habría que girar hacia la ... si devuelve 2 habría que girar hacia la ... y si devuelve 0 es que se ha ido, lo mejor es que des marcha atrás.
 
-<script type="text/javascript">var feedback11_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-11_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+%accordion%Solución%accordion%
 
-### Retroalimentación
-
-la respuesta de la puedes [descargar aquí](SIGUELINEAS.sb2) (sb2 - 66.49 <abbr lang="en" title="KiloBytes">KB</abbr>).
+la respuesta de la puedes [descargar aquí](http://aularagon.catedu.es/materialesaularagon2013/mbot/M3/SIGUELINEAS.sb2) (sb2 - 66.49 <abbr lang="en" title="KiloBytes">KB</abbr>).
 
 ![](img/siguelineasbueno.png)
+
 **Fuente: Captura de pantalla mBlock. Programa: el autor.**
 
+%/accordion%
 
 
 {% youtube %}https//www.youtube.com/watch?v=bhkjOldya5E{% endyoutube %}
