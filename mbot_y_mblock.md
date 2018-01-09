@@ -11,9 +11,11 @@ Necesitas el** kit de robótica mBot** de MakeBlock [que presta CATEDU](http://w
 
 Este curso utilizará dos productos:
 
-<li>[mBot con mochila de comunicación 2.4G](http://www.makeblock.es/productos/robot_educativo_mbot_2.4g/). (La[ versión Bluetooth](http://www.makeblock.es/productos/robot_educativo_mbot/) no es recomendable en el aula, es mejor que tenga la [mochila 2.4G](http://www.makeblock.es/productos/mbot_usb_2.4g/))
-<ul>
-- Si no lo tienes montado, usa las [Instrucciones ](https://www.dropbox.com/s/kwfo7pjdjoyo2x3/mBot%20instruction.pdf?dl=1)del Kit mBot
+- [mBot con mochila de comunicación 2.4G](http://www.makeblock.es/productos/robot_educativo_mbot_2.4g/). (La[ versión Bluetooth](http://www.makeblock.es/productos/robot_educativo_mbot/) no es recomendable en el aula, es mejor que tenga la [mochila 2.4G](http://www.makeblock.es/productos/mbot_usb_2.4g/))
+
+    NOTA:  Si no lo tienes montado, usa las [Instrucciones ](https://www.dropbox.com/s/kwfo7pjdjoyo2x3/mBot%20instruction.pdf?dl=1)del Kit mBot
+
+- [Matriz de LEDS 8x16](http://www.makeblock.es/productos/mbot_matriz_leds/) donde aumentaremos la capacidad de interacción de nuestro simpático mBot.
 
 ## Requisitos de software y Hardware
 
