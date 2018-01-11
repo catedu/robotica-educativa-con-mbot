@@ -1,7 +1,15 @@
 
 # LED RGB
 
-Los LED que hay montados en la placa permiten poner los 3 colores básicos a distintas tonalidades, desde **0** hasta **255**, prueba ahora este programa:
+Los LED que hay montados en la placa permiten poner los 3 colores básicos a distintas tonalidades, desde **0** hasta **255**, que podemos mezclar
+
+###Reto
+Realizar un programa que al apretar en el teclado..
+* 'a' se encienda el rojo
+* 's' se encienda el verde
+* 'd' se enciena el azul
+
+%accordion%Solución%accordion%
 
 ![](img/intermitente-a-s-d.png)
 
@@ -9,8 +17,10 @@ Los LED que hay montados en la placa permiten poner los 3 colores básicos a dis
 
 Ahora usa el teclado de tu ordenador, pulsa las teclas **a s** y **d**
 
+%/accordion%
 
-## ¿No funciona?
+
+###¿No funciona?
 
 
 Puede ser que mBot se quede enganchado con algún código anterior, la solución es [resetear mBot](http://aularagon.catedu.es/materialesaularagon2013/mbot/M1/resetear_mbot.html) y luego hacer el programa.
