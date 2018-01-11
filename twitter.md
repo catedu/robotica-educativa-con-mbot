@@ -1,7 +1,7 @@
 
 # Twitter
 
-En Twitter puedes encontrar más ejemplos y twittear al mundo los tuyos:
+En [Twitter](https://twitter.com/hashtag/mbot) puedes encontrar más ejemplos y twittear al mundo los tuyos:
 
 <iframe src="https://twitter.com/hashtag/mbot" width="800" height="800" align="center">
 
