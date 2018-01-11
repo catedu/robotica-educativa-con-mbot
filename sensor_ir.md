@@ -17,3 +17,7 @@ Realizar programas con el sensor de IR tiene una dificultad:** NO SE PUEDE HACER
 
 ¿qué haría este programa?
 
+Vamos que puedes hacerlo bailar !!
+
+{% youtube %}https://www.youtube.com/watch?v=9Q8_KgLinpg{% endyoutube %}
+
