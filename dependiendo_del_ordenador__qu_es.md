@@ -20,7 +20,9 @@ La conexión independiente del ordenador,  se explica en el M3 cómo realizarlo
 
 ## ¿Qué hace mBot dependiendo del ordenador?
 
-En el modo de dependiendo del ordenador, mBot obedece a un programa interno (**Firmware**) (que por cierto es bueno ir actualizándolo [ver](resetear_mbot.html)) <br />Este **Firmware** lo que le ordena a la placa Arduino es:
+En el modo de dependiendo del ordenador, mBot obedece a un programa interno (**Firmware**) 
+
+Este **Firmware** lo que le ordena a la placa Arduino es:
 
 1. Haz caso a las instrucciones del mando de IR ver figura de abajo
 1. Haz caso a la conexión con el ordenador y a las instrucciones que vengan por ahí
@@ -39,4 +41,8 @@ Instrucciones del mando IR en el firmware que viene por defecto (modo dependiend
 ![](img/instruccionesMandoIR.png)
 
 **Fuente de las imágenes: [http://makeblock.es/](fuente:%20http://makeblock.es/)**
+
+Por cierto, de vez en cuando es bueno **tener actualizado el Firmware**, esto se hace aquí:
+
+![](/assets/actualizarfirmare.png)
 
