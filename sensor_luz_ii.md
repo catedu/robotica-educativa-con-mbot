@@ -1,9 +1,9 @@
 
-# Sensor Luz II
+# Robot polilla
 
-## Propuesta
+## Reto
 
-Un sigue la luz: Si hay luz entonces que vaya recto, si no hay luz que de vueltas
+Ya sabemos que las polillas van a la luz: Realizar un programa que si hay luz entonces que vaya recto, si no hay luz que de vueltas
 
 {% youtube %}https//www.youtube.com/watch?v=8rucCGgt1gs{% endyoutube %}
 

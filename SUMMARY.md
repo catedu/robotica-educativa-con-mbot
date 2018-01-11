@@ -27,7 +27,7 @@
   * [Buzzer](buzzer.md)
   * [Sensor IR](sensor_ir.md)
   * [Sensor Luz](sensor_luz.md)
-  * [Sensor Luz II](sensor_luz_ii.md)
+  * [Robot polilla](sensor_luz_ii.md)
 * [Componentes exteriores](componentes_exteriores1.md)
   * [Sensor de lí­nea](sensor_de_lnea.md)
   * [Sensor distancia](sensor_distancia.md)
