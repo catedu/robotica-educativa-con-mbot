@@ -29,7 +29,7 @@ En nuestro programa no podemos utilizar ningún comando propio de Scratch, es de
 
 ![](img/quitarbandera.png)
 
-- Con el botón derecho, pinchamos en el mBot program y elegimos Upload Arduino:
+- Con el botón derecho, pinchamos en el mBot program y elegimos Upload Arduino, o más fácil en **Editar- Modo Arduino**:
 
 ![](img/botonderecho.png)
 
