@@ -7,7 +7,11 @@ El sensor Luz está situado al lado de los de IR, detecta la luz ambiente, pero 
 
 Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
-Un programa muy visual es el siguiente:
+### Un reto muy visual
+
+Realizar un programa que si iluminamos al robot ¡¡se pone a dar vueltas!! sino, se queda quieto:
+
+{% youtube %}https://www.youtube.com/watch?v=1ypZ9gAjQn4{% endyoutube %}
 
 ![](img/gira-si-no-luz.png)
 
