@@ -1,7 +1,7 @@
 
 # Evitar obstáculos
 
-## Roomba
+## Reto Roomba
 
 Programa al mBot para que sea capaz de evitar cualquier obstáculo, paredes... usando el sensor de ultrasonidos, aunque el del vídeo le ha puesto sirena!!
 
