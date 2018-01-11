@@ -17,5 +17,3 @@ Realizar programas con el sensor de IR tiene una dificultad:** NO SE PUEDE HACER
 
 ¿qué haría este programa?
 
-Otro programa interesante es el que convierte mBot en un robot apropiado para **infantil**, utilizando el mando a distancia: Ver módulo 4
-

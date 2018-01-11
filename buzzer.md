@@ -24,5 +24,5 @@ Y para los más frikis ;) ...
 
 De [http://juegosrobotica.es/musica-con-mbot/](http://juegosrobotica.es/musica-con-mbot/)
 
-Si alguien lo hace,[ por favor que lo cuelgue en el muro !](https://padlet.com/CATEDU/mBot)
+Si alguien lo hace, por favor que lo cuelgue[ en el muro](/muro.md) !
 
