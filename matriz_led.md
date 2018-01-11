@@ -9,11 +9,19 @@ La instrucción es **show drawing** y si hacemos dos clicks nos permite poner el
 
 ![](img/guardar-grafico-favorito.png)
 
-Vamos a probar con este programa :
+###Reto
+
+Realizar un programa como en anterior pero en vez de huir, que sonria. Es decir, si pongo la mano delante sale una cara sonriente.
+
+%accordion%Solución%accordion%
 
 ![](img/cara-si-menos10.png)
 
+%/accordion%
+
 Qué simpático ¿no?
+
+<iframe src="https://giphy.com/embed/l41lYnl1Cw89JSsve" width="480" height="196" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-1995-showgirls-l41lYnl1Cw89JSsve">via GIPHY</a></p>
 
 ## ¿No funciona?
 
