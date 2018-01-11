@@ -9,25 +9,33 @@ Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
 Y tiene los siguientes valores:
 
+* 0 si detecta todo negro (en binario 00)
+* 1 si detecta blanco derecha pero negro a la izquierda (01)
+* 2 al revés (10)
+* 3 si detecta los dos blancos (11)
+
 ![](img/ValoresSiqueLineas.png)
 
 Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
-Si por ejemplo ejecutamos este programa:
+### Reto, la obeja en su redil
+
+Ponemos a mBot en un [recuadro blanco con el borde negro (descarga A3)](http://aularagon.catedu.es/materialesaularagon2013/mbot/M2/A3-BordeExterior.pdf), queremos que hagas un programa que no salga del redil
+
+%accordion%Solución%accordion%
 
 ![](img/no-salgas-del-recuadro.png)
 
 **Fuente: Captura de pantalla mBlock. Programa: el autor.**
+¿y si ponemos de velocidad 200 en run forward, qué pasaría?
 
-Y ponemos a mBot en un [recuadro (descarga A3)](http://aularagon.catedu.es/materialesaularagon2013/mbot/M2/A3-BordeExterior.pdf), ¿qué haría?
-
-¿y si ponemos de velocidad 200 en run foward?
+%/accordion%
 
 ## Problemas: No funciona bien, se salta la línea
 
 Esto es debido a que desde que mBot comunica a nuestro ordenador que ha detectado una línea negra, y por lo tanto el ordenador lo procesa, y manda la órden de dar marcha atrás y dar la vuelta... mBot ya se ha pasado de raya ... :(
 
-Sobre todo en equipos viejos
+Sobre todo en equipos viejos.
 
 Solución: Hazlo independiente del ordenador. Mira cómo hacerlo en [M3 Upload to Arduino
 ](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/upload_to_arduino.html)
