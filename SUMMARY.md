@@ -42,7 +42,6 @@
 * [Publica tus construcciones](publica_tus_construcciones.md)
 * [Publica cosas de otros](publica_cosas_de_otros.md)
 * [Quiero saber más](quiero_saber_ms.md)
-* [Twitter](twitter.md)
 * [Deja las cosas como estaban](deja_las_cosas_como_estaban.md)
 * [Muro](muro.md)
 * [Creditos](creditos.md)
