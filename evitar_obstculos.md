@@ -13,6 +13,11 @@ Programa al mBot para que sea capaz de evitar cualquier obstáculo, paredes... u
 
 %accordion%Solución%accordion%
 
+Solución sencillota:
+
+![](/assets/romba.png)
+
+Solución super-avanzada:
 
 ![](img/salva-obstaculos.png)
 
