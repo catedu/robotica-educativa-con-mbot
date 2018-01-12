@@ -18,8 +18,12 @@ Solución sencillota:
 ![](/assets/romba.png)
 
 Solución super-avanzada:
+* Al azar gira o derecha o izquierda
+* Si el obstáculo persiste a estar cerca (menos de 8cm) pues que recula un poco.
 
 ![](img/salva-obstaculos.png)
+
+Entre una y otra solución hay varias intermedias.
 
 **Fuente: Captura de pantalla mBlock. Programa: el autor.**
 
