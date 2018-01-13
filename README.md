@@ -25,6 +25,8 @@ En este curso vamos a conocer y programar este robot:
 * Seguir una línea
 * Más cosas !!
 
+![](/assets/HERALDO-jpg.jpg)
+
 
 
 
