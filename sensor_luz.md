@@ -22,11 +22,15 @@ El valor umbral de 500 hay que modificarlo según la luz ambiental que exista, p
 
 %/accordion%
 
-Es muy espectacular hacerlo con los alumnos, se deja el aula a oscuras, se encienden todas las luces y todo baia !
+Es muy espectacular hacerlo con los alumnos, se deja el aula a oscuras, se encienden todas las luces y todo baila ! Pincha en al imágen para ver el vídeo:
 
-![](/assets/IMG_20171109_133641682.jpg)
+[![](/assets/IMG_20171109_133641682.jpg)](https://www.pscp.tv/w/1YqJDLrpOPOJV)
+[https://www.pscp.tv/w/1YqJDLrpOPOJV](https://www.pscp.tv/w/1YqJDLrpOPOJV)
 
-Si quieres que el pobre salga de marcha por la noche:
+<hr/>
+
+##No te quedes sólo con darle vueltas
+El pobre tiene ganas de salir de marcha por la noche:
 
 {% youtube %}https//www.youtube.com/watch?v=p9543Fjx4sM{% endyoutube %}
 
