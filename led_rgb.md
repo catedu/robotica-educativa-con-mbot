@@ -9,6 +9,8 @@ Realizar un programa que al apretar en el teclado..
 * 's' se encienda el verde
 * 'd' se enciena el azul
 
+{% youtube %} https://www.youtube.com/watch?v=ZEmBMGpltw0{% endyoutube %} 
+
 %accordion%Solución%accordion%
 
 ![](img/intermitente-a-s-d.png)
