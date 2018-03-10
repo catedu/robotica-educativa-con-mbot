@@ -13,6 +13,8 @@ La instrucción es **show drawing** y si hacemos dos clicks nos permite poner el
 
 Realizar un programa como en anterior pero en vez de huir, que sonria. Es decir, si pongo la mano delante sale una cara sonriente.
 
+{%youtube%}https://www.youtube.com/watch?v=KOR8Cj4wdvU{%endyoutube%}
+
 %accordion%Solución%accordion%
 
 ![](img/cara-si-menos10.png)
@@ -22,6 +24,11 @@ Realizar un programa como en anterior pero en vez de huir, que sonria. Es decir,
 Qué simpático ¿no?
 
 <iframe src="https://giphy.com/embed/l41lYnl1Cw89JSsve" width="480" height="196" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-1995-showgirls-l41lYnl1Cw89JSsve">via GIPHY</a></p>
+
+También puede ser que se ponga triste si no se pone la mano
+{%youtube%}https://www.youtube.com/watch?v=VYLgz10udck{%endyoutube%}
+
+
 
 ## ¿No funciona?
 
