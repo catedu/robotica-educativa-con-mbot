@@ -20,11 +20,15 @@ Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
 ### Reto, la obeja en su redil
 
-Ponemos a mBot en un [recuadro blanco con el borde negro (descarga A3)](http://aularagon.catedu.es/materialesaularagon2013/mbot/M2/A3-BordeExterior.pdf), queremos que hagas un programa que no salga del redil
+Ponemos a mBot en un [recuadro blanco con el borde negro (descarga A3)](http://aularagon.catedu.es/materialesaularagon2013/mbot/M2/A3-BordeExterior.pdf), queremos que hagas un programa que no salga nuestro robot del "_redil_".
+
+>Consejo: Poner velocidad 100 pues si va rápido (255) se salta la línea.
 
 {% youtube %}https://www.youtube.com/watch?v=cgEejjvatlk{% endyoutube %}
 
 <iframe src="https://giphy.com/embed/8kkGIGAhor01W" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sheep-8kkGIGAhor01W">via GIPHY</a></p>
+
+
 
 %accordion%Solución%accordion%
 
