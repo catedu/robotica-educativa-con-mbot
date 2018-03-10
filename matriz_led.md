@@ -28,8 +28,6 @@ Qué simpático ¿no?
 También puede ser que se ponga triste si no se pone la mano
 {%youtube%}https://www.youtube.com/watch?v=VYLgz10udck{%endyoutube%}
 
-
-
 ## ¿No funciona?
 
 Puede ser que mBot se quede enganchado con algún código anterior, la solución es [resetear mBot](http://aularagon.catedu.es/materialesaularagon2013/mbot/M1/resetear_mbot.html) y luego hacer el programa.
