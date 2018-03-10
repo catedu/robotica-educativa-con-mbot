@@ -11,6 +11,8 @@ Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
 Queremos que hagas un programa que si pongo la mano delante, que se vaya atrás. Por ejemplo a menos de 10cm.
 
+{%youtube%}https://www.youtube.com/watch?v=AJXZ7CayLY4{%endyoutube%}
+
 %accordion%Solución%accordion%
 
 ![](img/huir.png)
