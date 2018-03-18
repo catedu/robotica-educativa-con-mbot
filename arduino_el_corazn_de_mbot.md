@@ -1,7 +1,7 @@
 
 # Arduino: El corazón de mBot
 
-El kit es fácil de montar ([instrucciones](https://www.dropbox.com/s/kwfo7pjdjoyo2x3/mBot%20instruction.pdf?dl=1)), pero si nos fijamos el corazon es la placa de Arduino:
+El kit es fácil de montar ([instrucciones](http://www.spc-makeblock.es/download/mbot_castellanov1-1-pdf/)), pero si nos fijamos el corazon es la placa de Arduino:
 
 ![](img/mbot-assemble-process.gif)
 
