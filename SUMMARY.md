@@ -44,5 +44,6 @@
 * [3.6 Quiero saber más](quiero_saber_ms.md)
 * [3.7 Deja las cosas como estaban](deja_las_cosas_como_estaban.md)
 * [3.8 Muro](muro.md)
+* [Grupo Robótica educativa Aragón](grupo-robotica-educativa-aragon.md)
 * [Creditos](creditos.md)
 
