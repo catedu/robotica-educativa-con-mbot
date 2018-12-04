@@ -43,8 +43,3 @@ El programa es muy sencillo si estás acostumbrado al SCRATCH :
 mBlock está basado en Scratch y simplemente ha añadido extensiones para trabajar mBot, pero también ha añadido extensiones para trabajar Arduino, no es capricho, es porque mBot es un Arduino con dos motores y sensores.
 
 En CATEDU hemos experimentado distintas formas de programar el Arduino de forma sencilla para alumnos de primaria y encontramos mBlock como el mejor programa para hacerlo. Nuestros cursos de -Arduino utilizamos mBlock.
-
-### Para locos
-
-El software mBlock permite añadir tus propias extensiones, [en este ejemplo](http://www.mecatronicalab.es/programando-el-robot-mario-con-mblock-scratch-arduino/) se ha creado un robot con Arduino y el autor ha creado extensiones para programarlo fácilmente igual que mBot arrastrando bloques tipo "Girar derecha rápido".
-
