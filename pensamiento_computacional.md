@@ -5,4 +5,5 @@ Hay muchas herramientas para trabajar en los niños el lenguaje de las máquinas
 
 Puedes ver que este robot tiene un un margen de edad y dificultad apropiado y mucha capacidad de desarrollo.
 
-![](https://docs.google.com/drawings/d/1C-wPslYZaqZXwCpGNeedDuRY5LKm3Yz0v9N4sktA_kc/pub?w=960&amp;h=720)
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
+
