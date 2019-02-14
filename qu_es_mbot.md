@@ -18,3 +18,8 @@ Otras empresas que también apuestan con robótica educativa y hardware libre es
 ![](img/images_robots-mas-vendidos.jpg)
 **Fuente: [http://makeblock.es/](Fuente:%20http://makeblock.es/)**
 
+##¿Se puede uno fabricar un "mBot?
+SI, pues prácticamente es un Arduino con motores y sensores bastante estándares, y encima el programa mBlock es gratis, lo único es que no te saldrá tan perfecto. ¿cómo se hace? para esto ya hay un grupo en Twitter: @mClonRobot
+
+<a class="twitter-timeline" href="https://twitter.com/mClonRobot?ref_src=twsrc%5Etfw">Tweets by mClonRobot</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
