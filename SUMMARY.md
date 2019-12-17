@@ -21,6 +21,7 @@
 ## 2. Listos
 
 * [2 M2 Listos...](index1.md)
+  * [2.0 Empieza divertiéndote](index1/20-empieza-divertiendote.md)
 * [2.1 Módulos electrónicos](modulos_electrnicos.md)
   * [2.1.1 Botón](botn.md)
   * [2.1.2 LED RGB](led_rgb.md)

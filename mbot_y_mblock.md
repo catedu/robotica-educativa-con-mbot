@@ -21,6 +21,10 @@ Este curso utilizará dos productos:
 
 Instalar el **mBlock** en la [página oficial de descarga mBlock http://www.mblock.cc/](http://www.mblock.cc/). 
 
+**IMPORTANTE: RECOMENDAMOS INSTALAR LA VERSIÓN 3**
+
+![](https://catedu.gitbooks.io/domotica-con-arduino/content/assets/MBLCCK.jpg)
+
 Disponible en diversos sistemas operativos y su instalación no presenta ningún problema.
 
 - mBlock for PC: aconsejado para el aula, y recomendamos conexión 2.4G: **Windows, Mac, Linus, ChromeOS,. **
