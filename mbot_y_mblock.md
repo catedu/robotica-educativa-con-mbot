@@ -23,7 +23,7 @@ Instalar el **mBlock** en la [página oficial de descarga mBlock http://www.mbl
 
 **IMPORTANTE: RECOMENDAMOS INSTALAR LA VERSIÓN 3**
 
-![](https://catedu.gitbooks.io/domotica-con-arduino/content/assets/MBLCCK.jpg)
+![](https://catedu.github.io/domotica-con-arduino/assets/MBLCCK.jpg)
 
 Disponible en diversos sistemas operativos y su instalación no presenta ningún problema.
 

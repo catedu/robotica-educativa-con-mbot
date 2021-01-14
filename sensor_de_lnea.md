@@ -46,4 +46,4 @@ Esto es debido a que desde que mBot comunica a nuestro ordenador que ha detectad
 Sobre todo en equipos viejos.
 
 Solución: Hazlo independiente del ordenador. Mira cómo hacerlo en [M3 Upload to Arduino
-](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/upload_to_arduino.html)
+](https://catedu.github.io/robotica-educativa-con-mbot/upload_to_arduino.html)
